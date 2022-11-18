@@ -22,4 +22,4 @@ as usual, I have used the theme editor made by Aziz
   Sublime text - https://www.sublimetext.com/<br>
   Font used in example - https://fontesk.com/iosevka-typeface/</p>
 </blockquote>
-<sub><code>MIT license</code></sub>
+<sub><code>Copyright (c) 2020 Bryan Hu (ThatXliner), Brett Stevenson (tterb)</code></sub>

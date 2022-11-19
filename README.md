@@ -8,7 +8,7 @@ The way the scopes work in sublime themes are different from vscode so you will 
 
 as usual, I have used the theme editor made by Aziz
 
-<p>You can see the instructions to install the package from the Sublime text package control or download it locally <strong><a href="https://github.com/imnotril/fall-syntax-sublime-text/releases/latest">here</a></strong>.
+<p>You can see the instructions to install the package from the Sublime text package control or download it directly <strong><a href="https://github.com/imnotril/fall-syntax-sublime-text/releases/latest">here</a></strong>.
 <h6><sup>(Text translated by DeepL translator, may contain inaccurate translations)<sup></h6></p>
 <table>
   <tr><th>

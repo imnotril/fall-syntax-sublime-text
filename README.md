@@ -12,7 +12,7 @@ as usual, I have used the theme editor made by Aziz
 <h6><sup>(Text translated by DeepL translator, may contain inaccurate translations)<sup></h6></p>
 <table>
   <tr><th>
-    <img src="https://github.com/imnotril/fall-syntax-sublime-text/blob/main/code.png" width="759" height="913">      
+    <img src="https://github.com/imnotril/fall-syntax-sublime-text/blob/main/preview.png">      
   </th></tr>
 </table>
 <blockquote>

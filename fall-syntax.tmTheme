@@ -31,7 +31,7 @@
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment,punctuation.definition.comment.js</string>
+			<string>comment,punctuation.definition.comment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Fall syntax color scheme for Sublime Text</h1>
 
-  ![latest](https://github-basic-badges.herokuapp.com/release/imnotril/fall-syntax-sublime-text.svg)
-  ![license](https://github-basic-badges.herokuapp.com/license/imnotril/fall-syntax-sublime-text.svg)
-  ![commits](https://github-basic-badges.herokuapp.com/commits/imnotril/fall-syntax-sublime-text.svg)
+  [![latest](https://github-basic-badges.herokuapp.com/release/imnotril/fall-syntax-sublime-text.svg)](https://github.com/imnotril/fall-syntax-sublime-text/releases/latest)
+  [![license](https://github-basic-badges.herokuapp.com/license/imnotril/fall-syntax-sublime-text.svg)](https://github.com/imnotril/fall-syntax-sublime-text/blob/main/LICENSE)
+  [![commits](https://github-basic-badges.herokuapp.com/commits/imnotril/fall-syntax-sublime-text.svg)]()
   
-  ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+  [![sublime-text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 
 </div>
 

@@ -1,4 +1,13 @@
-<h3>Fall syntax color scheme for Sublime Text</h3>
+<div align="center">
+  <h1>Fall syntax color scheme for Sublime Text</h1>
+
+  ![latest](https://github-basic-badges.herokuapp.com/release/imnotril/fall-syntax-sublime-text.svg)
+  ![license](https://github-basic-badges.herokuapp.com/license/imnotril/fall-syntax-sublime-text.svg)
+  ![commits](https://github-basic-badges.herokuapp.com/commits/imnotril/fall-syntax-sublime-text.svg)
+  
+  ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+
+</div>
 
 Fall syntax is a color scheme comfortable to program for several hours because of its warm color without losing contrast and with a wonderful color palette, made for vscode.
 However here is the port to Sublime text because when I saw it I liked it a lot so I decided to try it in my editor, and it really exceeds my expectations.
@@ -15,6 +24,15 @@ as usual, I have used the theme editor made by Aziz
     <img src="https://github.com/imnotril/fall-syntax-sublime-text/blob/main/preview.png">      
   </th></tr>
 </table>
+
+<h3>How to contribute</h3>
+<p>
+mainly I would tell you to contribute to the original theme (in external links) this repository is completely based on that one, as it is a port.
+
+but if I missed something, e.g. in the readme or some scope in the tmtheme, the original theme has been changed and I haven't released a new version, etc... you can always make a pull request or open an issue.
+</p>
+
+
 <blockquote>
   <h4>External</h4>
   <p>Fall syntax original repository - https://github.com/ThatXliner/fall-syntax<br>
